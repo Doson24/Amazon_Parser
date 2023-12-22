@@ -1,4 +1,4 @@
-#Amazon Parser
+##Amazon Parser
 
 Этот скрипт используется для анализа веб-сайта Amazon. Он использует Selenium и BeautifulSoup для извлечения информации о товарах и сохранения ее в базе данных SQLite.
 
